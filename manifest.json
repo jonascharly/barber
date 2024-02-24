@@ -1,0 +1,16 @@
+{
+    "name": "subshop",
+    "short_name": "subshop",
+    "lang": "fr",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "./iconx512.png",
+            "sizes": "512X512",
+            "type": "image/png" 
+        }
+    ]
+}
